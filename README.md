@@ -19,5 +19,5 @@
 <hr></hr>
 <p><img align="left" width=365px margin=0px padding=0px src="https://github-readme-stats.vercel.app/api/top-langs?username=neshamon&show_icons=true&theme=dark&locale=en&layout=compact" alt="neshamon" /></p>
 
-<p><img align="right" width=440px margin= 0px padding=0px src="https://github-readme-streak-stats.herokuapp.com/?user=neshamon&theme=dark" alt="neshamon" /></p>
+<p><img width=440px margin= 0px padding=0px src="https://github-readme-streak-stats.herokuapp.com/?user=neshamon&theme=dark" alt="neshamon" /></p>
 
