@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm John Matthews</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A Lisper</h3>
 
 - 🔭 I’m currently working on [My Digital Business Card](https://github.com/Neshamon/Digital-Business-Card)
 
-- 🌱 I’m currently learning **Lua and Python**
+- 🌱 I’m currently learning **Common Lisp**
 
-- 💬 Ask me about **React, JavaScript, and Solidity**
+- 💬 Ask me about **Common Lisp**
 
-- 📫 How to reach me **neshamon@proton.me**
+- 📫 How to reach me **jmmatthews@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
