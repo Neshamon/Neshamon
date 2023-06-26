@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm John Matthews</h1>
 <h3 align="center">Lisper</h3>
 
-- 🔭 I’m currently working on [A simple database](https://github.com/Neshamon/simple-database), polishing [Erudite](https://github.com/Neshamon/eridite), and contributing to [Lem](https://github.com/lem-project/lem)
+- 🔭 I’m currently working on [A simple database](https://github.com/Neshamon/simple-database), polishing [Erudite](https://github.com/Neshamon/erudite), and contributing to [Lem](https://github.com/lem-project/lem)
 
 - 🌱 I’m currently learning **SBCL Common Lisp**
 
