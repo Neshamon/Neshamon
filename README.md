@@ -1,13 +1,29 @@
 <h1 align="center">Hi 👋 I'm John Matthews</h1>
 <h3 align="center">Lisper</h3>
 
-- 🔭 I’m currently working on [A simple database](https://github.com/Neshamon/simple-database), polishing [Erudite](https://github.com/Neshamon/erudite), and contributing to [Lem](https://github.com/lem-project/lem)
+```lisp
+(defpackage #:John-Matthews
+  (:use :cl))
 
-- 🌱 I’m currently learning **SBCL Common Lisp**
+(in-package #:John-Matthews)
 
-- 💬 Ask me about **Common Lisp**
-
-- 📫 How to reach me **jmmatthews@proton.me**
+(defvar *myself*
+  (list :langs '(common-lisp sbcl)
+        :tools '(lem emacs hunchentoot caveman2 radiant erudite docs)
+        :learning-about '(common-lisp
+                          exploratory-programming
+                          functional-programming)
+        :working-on '(simple-database
+                      erudite
+                      lem)
+        :company "Capital One"
+        :position "Data Analyst"
+        :interests '(theology
+                     singing
+                     calisthenics)
+        :goals "Work in open source with common-lisp"
+        :contact-me "jmmatthews@proton.me"))
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
