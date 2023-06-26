@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Digital Business Card](https://github.com/Neshamon/Digital-Business-Card)
 
-- 🌱 I’m currently learning **Common Lisp**
+- 🌱 I’m currently learning **SBCL Common Lisp**
 
 - 💬 Ask me about **Common Lisp**
 
