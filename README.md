@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋 I'm John Matthews</h1>
-<h3 align="center">Lisper</h3>
-
 ```lisp
 (defpackage #:John-Matthews
   (:use :cl))
