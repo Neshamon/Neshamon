@@ -18,7 +18,6 @@
         :interests '(theology
                      singing
                      calisthenics)
-        :goals "Work in open source with common-lisp"
         :contact-me "jmmatthews@proton.me"))
 ```
 <hr></hr>
