@@ -10,7 +10,7 @@
         :learning-about '(common-lisp
                           exploratory-programming
                           functional-programming)
-        :working-on '(simple-database
+        :working-on '(monkey-lang
                       erudite
                       lem)
         :company "Capital One"
