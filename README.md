@@ -11,7 +11,7 @@
                           exploratory-programming
                           functional-programming)
         :working-on '(monkey-lang
-                      erudite
+                      kaggle-clojure
                       lem)
         :company "Capital One"
         :position "Data Analyst"
