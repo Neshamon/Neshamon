@@ -14,7 +14,7 @@
                       kaggle-clojure
                       lem)
         :company "Capital One"
-        :position "Data Analyst"
+        :position "Platform Engineer"
         :interests '(theology
                      singing
                      calisthenics)
